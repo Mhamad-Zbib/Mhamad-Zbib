@@ -16,7 +16,8 @@ I'm an enthusiastic beginner in the world of web development. My current focus i
 
 ##### You can contact me on:
 ![Static Badge](https://img.shields.io/badge/%20email-%23D589FF?style=plastic&logo=gmail&logoColor=white&link=mzbib.2001%40gmail.com)
-![Static Badge](https://img.shields.io/badge/LinkedIn-%235D56FF?style=plastic&logo=LinkedIn&logoColor=white&link=linkedin.com%2Fin%2Fmhamad-zbib-b59013216)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%235D56FF?style=plastic&logo=LinkedIn&logoColor=white&link=linkedin.com%2Fin%2Fmhamad-zbib-b59013216)](https://img.shields.io/badge/LinkedIn-%235D56FF?style=plastic&logo=LinkedIn&logoColor=white&link=linkedin.com%2Fin%2Fmhamad-zbib-b59013216
+)
 
 
 
